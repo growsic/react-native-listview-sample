@@ -2,10 +2,6 @@ react nativeの環境構築を一切していない状態から、こんなア�
 ここから拡張すれば、記事の一覧表示とwebページ表示アプリなども作れます。
 <img width="250" alt="スクリーンショット 2019-07-20 18.48.04.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/78136/766d3f63-cd2b-39ec-b023-4419e7a1971a.gif">
 
-コードのサンプルはこちら
-https://github.com/growsic/react-native-listview-sample
-(是非starしてね！)
-
 # 前提
 - PCがMacであること
 - XCodeがインストールされていること
@@ -275,4 +271,4 @@ padding: 10
 今回は文字列を渡しているが、JSXを渡すことも可能。
 
 # おしまい
-ここから拡張すれば、記事の一覧表示とwebページ表示アプリなども作れるので、是非活用してください！。
+ここから拡張すれば、記事の一覧表示とwebページ表示アプリなども作れるので、是非活用してください！
